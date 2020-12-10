@@ -9,5 +9,5 @@
 ## 🖥️ Resultado
 <div align="center">
   <img alt="Image scroll animation result" src="https://i.imgur.com/HvgXF85.png" width="450px">
-  <a href="https://scroll-animation-ruuuff.netlify.app">scroll-animation-ruuuff</a>
+  <p><a href="https://scroll-animation-ruuuff.netlify.app">scroll-animation-ruuuff</a></p>
 </div>
