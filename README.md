@@ -7,7 +7,7 @@
 - JavaScript
 
 ## 🖥️ Resultado
-<div style="text-align: center;">
+<div align="center">
   <img alt="Image scroll animation result" src="https://i.imgur.com/HvgXF85.png" width="450px">
-  <p>Confira o resultado: <a href="https://scroll-animation-ruuuff.netlify.app">scroll-animation-ruuuff</a></p>
+  <a href="https://scroll-animation-ruuuff.netlify.app">scroll-animation-ruuuff</a>
 </div>
