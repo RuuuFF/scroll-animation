@@ -7,7 +7,7 @@ window.addEventListener('scroll', checkBoxes);
 checkBoxes();
 
 function checkBoxes() {
-  // Pega o tamanho do viewport, divide por 5 e multiplica por 4
+  // Pega o tamanho do viewport height, divide por 5 e multiplica por 4
   const triggerBottom = window.innerHeight / 5 * 4;
   
   // Para cada item de "boxes"
