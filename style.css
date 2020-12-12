@@ -40,9 +40,14 @@ h1 {
   transition: transform .4s ease;
 }
 
+/*
+ * "even" pega cada elemento par 
+ * "odd" pega cada elemento impar
+ */
 .box:nth-of-type(even) {
   transform: translateX(-400%);
 }
+/* https://www.w3schools.com/cssref/sel_nth-of-type.asp */
 
 .box.show {
   transform: translateX(0);
